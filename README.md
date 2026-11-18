@@ -1,4 +1,4 @@
-# wikyg5
+# wiky
 
 **IT Student | Developer | AI Enthusiast**
 
