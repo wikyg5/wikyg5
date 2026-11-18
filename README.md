@@ -2,7 +2,7 @@
 
 **IT Student | Developer | AI Enthusiast**
 
-I'm 17 years old and currently studying **Microcomputer Systems and Networks (SMX)** in Spain.
+I'm 17 years old and currently studying **Microcomputer Systems and Networks** in Spain.
 
 I'm passionate about technology, programming and creating useful tools with Artificial Intelligence. I enjoy turning ideas into real projects and exploring new technologies.
 
