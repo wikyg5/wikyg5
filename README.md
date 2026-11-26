@@ -18,10 +18,10 @@ I'm passionate about technology, programming and creating useful tools with Arti
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=33-33lucas3&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wikyg5&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=33-33lucas3&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikyg5&layout=compact&hide_border=true&theme=tokyonight)
 
 ### Contributions
 
-![Contribution Snake](https://raw.githubusercontent.com/33-33lucas3/33-33lucas3/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/wikyg5/wikyg5/output/github-contribution-grid-snake.svg)
